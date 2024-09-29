@@ -54591,6 +54591,9 @@
 	<programme channel="纯享4K" start="20240929203000 +0800" stop="20240929211200 +0800">
 		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929212200 +0800" stop="20240929215200 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62451,6 +62454,9 @@
 	<programme channel="黑莓动画" start="20240929205300 +0800" stop="20240929210600 +0800">
 		<title lang="zh">23_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929213100 +0800" stop="20240929213800 +0800">
+		<title lang="zh">29_不能拒绝的烦恼</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63081,6 +63087,9 @@
 	<programme channel="newtv精品大剧" start="20240929204900 +0800" stop="20240929211900 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240929211900 +0800" stop="20240929220800 +0800">
+		<title lang="zh">27_三分野</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63264,6 +63273,9 @@
 	<programme channel="newtv古装剧场" start="20240929202000 +0800" stop="20240929210600 +0800">
 		<title lang="zh">27_美人心计</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240929210600 +0800" stop="20240929213600 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63347,6 +63359,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240929205100 +0800" stop="20240929212100 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240929212100 +0800" stop="20240929220500 +0800">
+		<title lang="zh">35_百战天狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -63440,6 +63455,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240929204600 +0800" stop="20240929211600 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240929211600 +0800" stop="20240929215700 +0800">
+		<title lang="zh">16_我和我的三个姐姐</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63645,6 +63663,9 @@
 	<programme channel="newtv动作电影" start="20240929205600 +0800" stop="20240929212600 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240929212600 +0800" stop="20240929230500 +0800">
+		<title lang="zh">战狼</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -63743,6 +63764,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240929204600 +0800" stop="20240929211600 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240929211600 +0800" stop="20240929220200 +0800">
+		<title lang="zh">第五场 福建梦幻风华正茂vs广东N5 第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -63921,6 +63945,9 @@
 	<programme channel="newtv军事评论" start="20240929204600 +0800" stop="20240929210700 +0800">
 		<title lang="zh">问题频出的“福特”号航母</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240929212900 +0800" stop="20240929215000 +0800">
+		<title lang="zh">美军直升机坠落事故</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -64016,6 +64043,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240929195600 +0800" stop="20240929211300 +0800">
 		<title lang="zh">颜值与性格哪个更重要？爱的生活场矛盾升级 男女嘉宾巧化解（20240430）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240929211300 +0800" stop="20240929215600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -64151,6 +64181,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240929203600 +0800" stop="20240929210600 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240929210600 +0800" stop="20240929223900 +0800">
+		<title lang="zh">袁天罡之异域妖踪</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -64355,6 +64388,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240929203700 +0800" stop="20240929210700 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240929210700 +0800" stop="20240929214800 +0800">
+		<title lang="zh">04_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
